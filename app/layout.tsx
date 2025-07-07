@@ -78,6 +78,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-W3MPZLQL');` }} />
         {/* End Google Tag Manager */}
+        <link rel="icon" href="/AI%20prompt%20generator.png" type="image/png" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
