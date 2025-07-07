@@ -5,8 +5,5 @@
       "src": "next.config.js",
       "use": "@vercel/next"
     }
-  ],
-  "env": {
-    "DEEPSEEK_API_KEY": "@deepseek_api_key"
-  }
+  ]
 } 
